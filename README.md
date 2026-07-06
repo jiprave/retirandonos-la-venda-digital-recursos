@@ -6,7 +6,6 @@ Este repositorio reúne los datos, scripts en R y demás recursos complementario
 
 - Bases de datos
 - Scripts en R
-- Figuras
 
 ## Autor
 
