@@ -1,5 +1,5 @@
 #############################################################
-# Figura 10.1. Patrones organizacionales a partir de Google Trends
+# Figura 1 (Ed. 10 del newsletter). Patrones organizacionales a partir de Google Trends
 # Pérez-Rave (2026)
 #############################################################
 
